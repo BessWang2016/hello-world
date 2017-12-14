@@ -1,2 +1,4 @@
 # hello-world
-I'm learning to be a geek
+Hi noboy!
+
+I guess noone will see this until I become a seriously capable Hacker. Hahahaha!
